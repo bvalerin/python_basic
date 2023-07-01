@@ -73,6 +73,45 @@ number **= 5
 print(number)
 
 
+#Operadores lógicos:
+
+#AND lógico (and): Devuelve True si ambas expresiones son verdaderas.
+#una expresion es cualquier cosa que retorne True or False
+
+# if(age > 18 and user.location == "Espaza"):
+#     create invoice 
+
+# if(age > 18):
+#     if(user.location == "Espaza"):
+#        create invoice 
+
+
+#OR lógico (or): Devuelve True si al menos una de las expresiones es verdadera.
+# exp1 = 1 > 4
+# exp2 = 2 == 2
+# exp3 = not exp2
+
+# if(exp1 or exp2 or 5 > 8 or 60 < 0):
+    #Entra si una de las 2 es verdadera
+
+#NOT lógico (not): Niega el valor de una expresión.
+# if(not isAdmin)
+#     No es admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
